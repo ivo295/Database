@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KSUCornerDBModel2" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Profile">
+    <Key>
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="AccountID" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="EmailConfirmed" Type="Boolean" Nullable="false" />
+    <Property Name="EmailIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="Gender" Type="String" MaxLength="6" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GenderIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="BirthDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="BirthDateIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="AvatarPath" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="AvatarWidth" Type="Int32" Nullable="false" />
+    <Property Name="AvatarHeight" Type="Int32" Nullable="false" />
+    <Property Name="AvatarIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="Interests" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="InterestsIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="AboutMe" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="AboutMeIsPublic" Type="Boolean" Nullable="false" />
+    <Property Name="LastUpdateDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="KSUCornerDBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Profiles" EntityType="Self.Profile" />
+  </EntityContainer>
+</Schema>

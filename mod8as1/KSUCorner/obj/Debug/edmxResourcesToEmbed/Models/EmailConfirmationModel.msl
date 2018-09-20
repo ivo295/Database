@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModelStoreContainer" CdmEntityContainer="KSUCornerDBEntities">
+    <EntitySetMapping Name="EmailConfirmations">
+      <EntityTypeMapping TypeName="KSUCornerDBModel.EmailConfirmation">
+        <MappingFragment StoreEntitySet="EmailConfirmations">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="IsConfirmed" ColumnName="IsConfirmed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,180 @@
+@model KSUCorner.Models.Profile
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - KSU Corner</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var currentTab = window.location.pathname;
+            if (currentTab == null || currentTab.split("/").length < 3)
+                currentTab = "Index";
+            else {
+                currentTab = (currentTab.split("/"))[2];
+                if (currentTab.length == 0)
+                    currentTab = "Index";
+            }
+            $.ajax({
+                type: "GET",
+                url: "/Home/GetTabs/" + currentTab,
+                success: function (response) {
+                    var off = response.indexOf(":");
+                    var head = "";
+                    var tabs = "";
+                    if (off == -1)
+                        tabs = response;
+                    else {
+                        head = response.substring(0, off);
+                        tabs = response.substring(off + 1);
+                    }
+                    $("#headcontainer").html(head);
+                    $("#menuleftcontainer").html(tabs);
+                },
+                error: function (e) {
+                    alert("Error: " + e.responseText);
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="menubar">
+        <div class="alt2container">
+            <div id="headcontainer">
+            </div>
+            <div id="menuleftcontainer">
+            </div>
+            <div id="menurightcontainer">
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+
+    <div class="altcontainer body-content">
+        @RenderBody()
+        <p></p>
+            <div class="firstindent">
+            @using (Html.BeginForm("EditProfile", "", FormMethod.Post, new { enctype = "multipart/form-data" })) {
+            @Html.ValidationSummary(true)
+            
+            <fieldset>
+                
+               <table border="0" cellspacing="5" cellpadding="6" width="710">
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label1):</td>
+                <td class="datacellzero">@Html.Raw(ViewBag.Content1)</td>
+                <td class="datacellzero">&nbsp;</td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label2):</td>
+                <td class="datacellzero">
+                    @Html.TextBoxFor(m => m.FirstName)
+                    <font size="1">@Html.ValidationMessageFor(m => m.FirstName)</font></td>
+                <td class="datacellzero">&nbsp;</td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label3):</td>
+                <td class="datacellzero">
+                    @Html.TextBoxFor(m => m.LastName)
+                    <font size="1">@Html.ValidationMessageFor(m => m.LastName)</font></td>
+                <td class="datacellzero">&nbsp;</td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label4):</td>
+                <td class="datacellzero">
+                    @Html.TextBoxFor(m => m.Email)
+                    <font size="1">@Html.ValidationMessageFor(m => m.Email)</font></td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.EmailIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label5):</td>
+                <td class="datacellzero">
+                    @Html.RadioButtonFor(m => m.Gender, "Male")
+                    <b>Male</b><br />
+                    @Html.RadioButtonFor(m => m.Gender, "Female")
+                    <b>Female</b><br />
+                    @Html.ValidationMessageFor(m => m.Gender)</td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.GenderIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label6):</td>
+                <td class="datacellzero">
+                    @Html.DropDownList("Month")
+                    @Html.DropDownList("Day")
+                    @Html.DropDownList("Year")</td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.BirthDateIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label7):</td>
+                <td class="datacellzero">
+                    <input type="file" id="fileUpload" name="fileUpload" size="50"/>
+                    @Html.Raw(ViewBag.Content2)</td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.AvatarIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label8):</td>
+                <td class="datacellzero">
+                    @Html.TextAreaFor(m => m.Interests, 5, 50, null)
+                    <br /><font size="2">@Html.ValidationMessageFor(m => m.Interests)</font></td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.InterestsIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+
+                <tr>
+                <td class="datacellzero120">@Html.Raw(ViewBag.Label9):</td>
+                <td class="datacellzero">
+                    @Html.TextAreaFor(m => m.AboutMe, 5, 50, null)
+                    <br /><font size="2">@Html.ValidationMessageFor(m => m.AboutMe)</font></td>
+                <td class="datacellzero">
+                    @Html.CheckBoxFor(m => m.AboutMeIsPublic)
+                    <b>Is&nbsp;Public</b>
+                </td>
+                </tr>
+                </table>
+
+                <p>
+                    <input type="submit" value="Update" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <button type="button" onclick="window.location='/Home/Profile'">Cancel</button>
+                </p>
+            </fieldset>
+            }
+            </div>
+        </div>
+    </div>
+    <hr />
+    <footer>
+        <p>&copy; @DateTime.Now.Year - KSU Corner</p>
+    </footer>
+</body>
+</html>

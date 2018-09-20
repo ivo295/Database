@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel3StoreContainer" CdmEntityContainer="KSUCornerDBEntities3">
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="KSUCornerDBModel3.Message">
+        <MappingFragment StoreEntitySet="Messages">
+          <ScalarProperty Name="MessageID" ColumnName="MessageID" />
+          <ScalarProperty Name="SentBy" ColumnName="SentBy" />
+          <ScalarProperty Name="SentTo" ColumnName="SentTo" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="MessageType" ColumnName="MessageType" />
+          <ScalarProperty Name="MessageStatus" ColumnName="MessageStatus" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="OpenedDate" ColumnName="OpenedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

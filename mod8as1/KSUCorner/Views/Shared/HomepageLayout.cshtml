@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - KSU Corner</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var currentTab = window.location.pathname;
+            if (currentTab == null || currentTab.split("/").length < 3)
+                currentTab = "Index";
+            else {
+                currentTab = (currentTab.split("/"))[2];
+                if (currentTab.length == 0)
+                    currentTab = "Index";
+            }
+            $.ajax({
+                type: "GET",
+                url: "/Home/GetTabs/" + currentTab,
+                success: function (response) {
+                    var off = response.indexOf(":");
+                    var head = "";
+                    var tabs = "";
+                    if (off == -1)
+                        tabs = response;
+                    else {
+                        head = response.substring(0, off);
+                        tabs = response.substring(off + 1);
+                    }
+                    $("#headcontainer").html(head);
+                    $("#menuleftcontainer").html(tabs);
+                },
+                error: function (e) {
+                    alert("Error: " + e.responseText);
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="menubar">
+        <div class="alt2container">
+            <div id="headcontainer">
+            </div>
+            <div id="menuleftcontainer">
+            </div>
+            <div id="menurightcontainer">
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+
+    <div class="altcontainer body-content">
+        @RenderBody()
+        <table border="1" cellspacing="10" cellpadding="10">
+          <tr>
+            <td>
+                @Html.Raw(ViewBag.Label1)
+                <p></p>
+                @Html.Raw(ViewBag.Content1)
+            </td>
+          </tr>
+          <tr>
+            <td class="datacellfour" align="center">&nbsp;<br />
+                <img src="/Images/kennesawlogo.gif" alt="KSU Logo" /><br />
+                <img src="/Images/socialnetwork.jpg" alt="KSU Corner Logo" /><br />
+                <br /><b>&nbsp;</b>
+            </td>
+          </tr>
+          <tr>
+            <td>
+                @Html.Raw(ViewBag.Label2)
+                <p></p>
+                @Html.Raw(ViewBag.Content2)
+            </td>
+          </tr>
+        </table>
+    </div>
+    <hr />
+    <footer>
+        <p>&copy; @DateTime.Now.Year - KSU Corner</p>
+    </footer>
+</body>
+</html>

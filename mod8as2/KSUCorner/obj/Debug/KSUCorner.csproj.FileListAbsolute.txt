@@ -1,0 +1,595 @@
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\obj\Debug\KSUCorner.csprojResolveAssemblyReference.cache
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\obj\Debug\KSUCorner.csproj.CoreCompileInputs.cache
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\ApplicationInsights.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csc.exe
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csc.exe.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csc.rsp
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csi.exe
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csi.exe.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\csi.rsp
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.AppContext.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Console.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Claims.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\vbc.exe
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\vbc.exe.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\vbc.rsp
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\KSUCorner.dll.config
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\KSUCorner.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\KSUCorner.pdb
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Antlr3.Runtime.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\EntityFramework.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Newtonsoft.Json.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Owin.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Helpers.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Mvc.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Optimization.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Razor.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\WebGrease.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Helpers.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Mvc.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Optimization.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.Razor.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Newtonsoft.Json.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\EntityFramework.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\obj\Debug\KSUCorner.dll
+C:\Users\ivo\source\repos\KSUCorner\KSUCorner\obj\Debug\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\ApplicationInsights.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csi.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csi.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\csi.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.AppContext.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Console.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Claims.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\vbc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\vbc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\vbc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\KSUCorner.dll.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Helpers.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Mvc.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Optimization.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\WebGrease.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Helpers.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Mvc.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Optimization.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\obj\Debug\KSUCorner.csprojResolveAssemblyReference.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\obj\Debug\KSUCorner.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\obj\Debug\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod6\KSUCorner\KSUCorner\obj\Debug\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\ApplicationInsights.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csi.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csi.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\csi.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.AppContext.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Console.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Claims.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\vbc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\vbc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\vbc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\KSUCorner.dll.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Helpers.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Mvc.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Optimization.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\WebGrease.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Helpers.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Mvc.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Optimization.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\obj\Debug\KSUCorner.csprojResolveAssemblyReference.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\obj\Debug\KSUCorner.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\obj\Debug\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner2\KSUCorner\obj\Debug\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\ApplicationInsights.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csi.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csi.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\csi.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.AppContext.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Console.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Claims.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\vbc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\vbc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\vbc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\KSUCorner.dll.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Helpers.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Mvc.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Optimization.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\WebGrease.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Helpers.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Mvc.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Optimization.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\obj\Debug\KSUCorner.csprojResolveAssemblyReference.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\obj\Debug\KSUCorner.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\obj\Debug\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod7\KSUCorner3\KSUCorner\obj\Debug\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\ApplicationInsights.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csi.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csi.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\csi.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.AppContext.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Console.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Claims.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\vbc.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\vbc.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\vbc.rsp
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\KSUCorner.dll.config
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\KSUCorner.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Antlr3.Runtime.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\EntityFramework.SqlServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.Web.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Newtonsoft.Json.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Owin.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Helpers.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Mvc.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Optimization.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\WebGrease.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Helpers.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Mvc.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Optimization.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Antlr3.Runtime.pdb
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Newtonsoft.Json.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\EntityFramework.SqlServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\bin\Microsoft.AI.Web.xml
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\obj\Debug\KSUCorner.csprojResolveAssemblyReference.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\obj\Debug\KSUCorner.csproj.CoreCompileInputs.cache
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\obj\Debug\KSUCorner.dll
+C:\Users\ivo\Desktop\school2018\ACST3540Social Media\mod8\mod8as2\KSUCorner\obj\Debug\KSUCorner.pdb

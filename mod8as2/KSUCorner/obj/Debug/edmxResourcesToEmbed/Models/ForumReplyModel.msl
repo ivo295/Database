@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel11StoreContainer" CdmEntityContainer="KSUCornerDBEntities11">
+    <EntitySetMapping Name="ForumReplies">
+      <EntityTypeMapping TypeName="KSUCornerDBModel11.ForumReply">
+        <MappingFragment StoreEntitySet="ForumReplies">
+          <ScalarProperty Name="ReplyID" ColumnName="ReplyID" />
+          <ScalarProperty Name="Subject" ColumnName="Subject" />
+          <ScalarProperty Name="AccountID" ColumnName="AccountID" />
+          <ScalarProperty Name="ForumID" ColumnName="ForumID" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

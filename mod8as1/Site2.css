@@ -1,0 +1,432 @@
+html {
+    background-color: #fffff5;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #333333;
+    background-color: #fffff5;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    font-size: 1.0em;
+    line-height: 1.428571429;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-top: 0px;
+    background-color: #fffff5;
+    font-size: 1.6em;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+    text-align: left;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+a {
+    color: #333;
+    outline: none;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-decoration: underline;
+}
+
+    a:link, a:visited,
+    a:active, a:hover {
+        color: #333;
+    }
+
+    a:hover {
+        background-color: #c7d1d6;
+    }
+
+    a#registerLink {
+        color: #48effa;
+        font-size: 1.8em;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    a#loginLink {
+        color: #48effa;
+        font-size: 1.8em;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    a#logoutForm {
+        color: #48effa;
+        font-size: 1.8em;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    a#manageLink {
+        color: #48effa;
+        font-size: 1.8em;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+mark {
+    background-color: #a6dbed;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.clear-fix:after {
+    content: ".";
+    clear: both;
+    height: 0;
+    visibility: hidden;
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    color: #000;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.75em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+h5, h6 {
+    font-size: 1em;
+}
+
+    h5 a:link, h5 a:visited, h5 a:active {
+        padding: 0;
+        text-decoration: none;
+    }
+
+
+/* Header, section, loginform and footer layout
+----------------------------------------------------------*/
+
+.menubar {
+    display: table;
+    background: url("/Images/background7.jpg");
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding-left: 0px;
+    padding-top: 0px;
+    z-index: 1000;
+}
+
+.content-wrapper {
+    margin: 0 auto;
+}
+
+section {
+    height: auto;
+}
+
+#loginForm {
+    background-color: #fffff5;
+}
+
+#socialLoginForm {
+    background-color: #e2e2e2;
+}
+
+footer {
+    display: table;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: #e2e2e2;
+    font-size: 1.6em;
+    padding: 3px 20px;
+}
+
+
+/* Tabmenu layout
+----------------------------------------------------------*/
+ul#tabmenu {
+    font-size: 1.8em;
+    font-weight: 600;
+    margin: 10px 0px 0px 20px;
+    padding: 0;
+    text-align: left;
+}
+
+    ul#tabmenu li {
+        display: inline;
+        list-style: none;
+        color: #b6faff;
+        margin-left: 3px;
+        margin-right: 3px;
+        border-top: double #fff;
+        border-left: double #fff;
+    }
+
+        ul#tabmenu li a {
+            background: none;
+            color: #fff;
+            text-decoration: none;
+        }
+
+            ul#tabmenu li a:hover {
+                color: #0f0;
+            }
+
+/* Headermenu layout
+----------------------------------------------------------*/
+ul#headmenu {
+    font-size: 2.3em;
+    font-weight: bold;
+    margin: 0 0 5px;
+    padding: 0;
+    text-align: left;
+}
+
+    ul#headmenu li {
+        display: inline;
+        list-style: none;
+    }
+
+        ul#headmenu li a {
+            background: none;
+            color: #48effa;
+            text-decoration: none;
+        }
+
+            ul#headmenu li a:hover {
+                color: #0f0;
+            }
+
+/* Menuleftcontainer layout
+----------------------------------------------------------*/
+#menuleftcontainer {
+    margin: 0 0 0;
+    padding: 0;
+    display: inline;
+    float: left;
+}
+
+/* Menurightcontainer layout
+----------------------------------------------------------*/
+#menurightcontainer {
+    margin: 0 0 0;
+    padding: 0;
+    display: inline;
+    float: right;
+}
+
+/* Rightmenuitems layout
+----------------------------------------------------------*/
+ul#rightmenuitems {
+    margin: 0 0 0 0;
+    padding: 0;
+    text-align: right;
+}
+
+    ul#rightmenuitems li {
+        margin: 5px 10px;
+        display: inline;
+        list-style: none;
+    }
+
+        ul#rightmenuitems li a {
+            background: none;
+            text-decoration: none;
+        }
+
+            ul#rightmenuitems li a:hover {
+                background: none;
+                color: #f00;
+            }
+
+/* Page elements
+----------------------------------------------------------*/
+input[type="checkbox"] {
+    background: transparent;
+    border: inherit;
+    width: auto;
+}
+
+input[type="radio"] {
+    background: transparent;
+    border: inherit;
+    width: auto;
+}
+
+input[type="submit"],
+input[type="button"],
+button {
+    background-color: #d3dce0;
+    border: 1px solid #787878;
+    cursor: pointer;
+    font-size: 1.2em;
+    font-weight: 600;
+    padding: 7px;
+    margin-right: 0px;
+    margin-left: 20px;
+    width: auto;
+}
+
+td input[type="submit"],
+td input[type="button"],
+td button {
+    font-size: 1em;
+    padding: 4px;
+    margin-right: 4px;
+}
+
+/* Tables
+----------------------------------------------------------*/
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 0.75em;
+    margin-left: 20px;
+    border: 2px solid;
+}
+
+th {
+    font-size: 1.2em;
+    text-align: left;
+    border: 2px solid;
+    padding-left: 0;
+}
+
+    th a {
+        display: block;
+        position: relative;
+    }
+
+        th a:link, th a:visited, th a:active, th a:hover {
+            color: #333;
+            font-weight: 600;
+            text-decoration: none;
+            padding: 0;
+        }
+
+        th a:hover {
+            color: #000;
+        }
+
+    th.asc a, th.desc a {
+        margin-right: .75em;
+    }
+
+        th.asc a:after, th.desc a:after {
+            display: block;
+            position: absolute;
+            right: 0em;
+            top: 0;
+            font-size: 0.75em;
+        }
+
+        th.asc a:after {
+            content: '?';
+        }
+
+        th.desc a:after {
+            content: '?';
+        }
+
+td {
+    padding: 0.25em 2em 0.25em 2em;
+    border: 2px solid;
+}
+
+tr.pager td {
+    padding: 0 0.25em 0 0;
+}
+
+/* Alternative to bootstrap containers which shift
+   a lot when window is resized 
+----------------------------------------------------------*/
+.altcontainer {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .altcontainer:before,
+    .altcontainer:after {
+        display: table;
+        content: " ";
+    }
+
+    .altcontainer:after {
+        clear: both;
+    }
+
+    .altcontainer:before,
+    .altcontainer:after {
+        display: table;
+        content: " ";
+    }
+
+    .altcontainer:after {
+        clear: both;
+    }
+
+.alt2container {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    .alt2container:before,
+    .alt2container:after {
+        display: table;
+        content: " ";
+    }
+
+    .alt2container:after {
+        clear: both;
+    }
+
+    .alt2container:before,
+    .alt2container:after {
+        display: table;
+        content: " ";
+    }
+
+    .alt2container:after {
+        clear: both;
+    }

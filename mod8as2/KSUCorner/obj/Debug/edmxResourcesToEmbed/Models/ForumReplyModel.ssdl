@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KSUCornerDBModel11.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ForumReplies">
+    <Key>
+      <PropertyRef Name="ReplyID" />
+    </Key>
+    <Property Name="ReplyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="AccountID" Type="int" Nullable="false" />
+    <Property Name="ForumID" Type="int" Nullable="false" />
+    <Property Name="Body" Type="nvarchar" MaxLength="1000" />
+    <Property Name="CreateDate" Type="datetime" Nullable="false" />
+    <Property Name="LastUpdateDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="KSUCornerDBModel11StoreContainer">
+    <EntitySet Name="ForumReplies" EntityType="Self.ForumReplies" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

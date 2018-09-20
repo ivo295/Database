@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel5StoreContainer" CdmEntityContainer="KSUCornerDBEntities5">
+    <EntitySetMapping Name="FileFolders">
+      <EntityTypeMapping TypeName="KSUCornerDBModel5.FileFolder">
+        <MappingFragment StoreEntitySet="FileFolders">
+          <ScalarProperty Name="FileFolderID" ColumnName="FileFolderID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="AccountID" ColumnName="AccountID" />
+          <ScalarProperty Name="FolderType" ColumnName="FolderType" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

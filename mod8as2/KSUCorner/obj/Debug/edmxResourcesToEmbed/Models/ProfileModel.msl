@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel2StoreContainer" CdmEntityContainer="KSUCornerDBEntities2">
+    <EntitySetMapping Name="Profiles">
+      <EntityTypeMapping TypeName="KSUCornerDBModel2.Profile">
+        <MappingFragment StoreEntitySet="Profiles">
+          <ScalarProperty Name="AccountID" ColumnName="AccountID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EmailConfirmed" ColumnName="EmailConfirmed" />
+          <ScalarProperty Name="EmailIsPublic" ColumnName="EmailIsPublic" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="GenderIsPublic" ColumnName="GenderIsPublic" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="BirthDateIsPublic" ColumnName="BirthDateIsPublic" />
+          <ScalarProperty Name="AvatarPath" ColumnName="AvatarPath" />
+          <ScalarProperty Name="AvatarWidth" ColumnName="AvatarWidth" />
+          <ScalarProperty Name="AvatarHeight" ColumnName="AvatarHeight" />
+          <ScalarProperty Name="AvatarIsPublic" ColumnName="AvatarIsPublic" />
+          <ScalarProperty Name="Interests" ColumnName="Interests" />
+          <ScalarProperty Name="InterestsIsPublic" ColumnName="InterestsIsPublic" />
+          <ScalarProperty Name="AboutMe" ColumnName="AboutMe" />
+          <ScalarProperty Name="AboutMeIsPublic" ColumnName="AboutMeIsPublic" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

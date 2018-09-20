@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel6StoreContainer" CdmEntityContainer="KSUCornerDBEntities6">
+    <EntitySetMapping Name="MediaFiles">
+      <EntityTypeMapping TypeName="KSUCornerDBModel6.MediaFile">
+        <MappingFragment StoreEntitySet="MediaFiles">
+          <ScalarProperty Name="FileID" ColumnName="FileID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="AccountID" ColumnName="AccountID" />
+          <ScalarProperty Name="FilePath" ColumnName="FilePath" />
+          <ScalarProperty Name="FileType" ColumnName="FileType" />
+          <ScalarProperty Name="FileFolderID" ColumnName="FileFolderID" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="MoreInfo" ColumnName="MoreInfo" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="Width" ColumnName="Width" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

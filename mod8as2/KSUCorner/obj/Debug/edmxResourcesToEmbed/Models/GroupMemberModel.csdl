@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KSUCornerDBModel8" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="GroupMember">
+    <Key>
+      <PropertyRef Name="GroupID" />
+      <PropertyRef Name="AccountID" />
+    </Key>
+    <Property Name="GroupID" Type="Int32" Nullable="false" />
+    <Property Name="AccountID" Type="Int32" Nullable="false" />
+    <Property Name="IsAdmin" Type="Boolean" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="KSUCornerDBEntities8" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="GroupMembers" EntityType="Self.GroupMember" />
+  </EntityContainer>
+</Schema>

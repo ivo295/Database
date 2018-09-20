@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KSUCornerDBModel4StoreContainer" CdmEntityContainer="KSUCornerDBEntities4">
+    <EntitySetMapping Name="Friends">
+      <EntityTypeMapping TypeName="KSUCornerDBModel4.Friend">
+        <MappingFragment StoreEntitySet="Friends">
+          <ScalarProperty Name="FriendID" ColumnName="FriendID" />
+          <ScalarProperty Name="FriendUserName1" ColumnName="FriendUserName1" />
+          <ScalarProperty Name="FriendUserName2" ColumnName="FriendUserName2" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
